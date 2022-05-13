@@ -3,7 +3,8 @@
 - 🔭 Atualmente trabalho como Analista de Redes
 - 🌱Estou estudando Python, JavaScript e C#
 ##
-<a href="https://github.com/ryanvpacheco">
+<div>
+  <a href="https://github.com/ryanvpacheco">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryanvpacheco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanvpacheco&layout=compact&langs_count=7&theme=dracula"/>
 </div>
