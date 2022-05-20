@@ -7,7 +7,7 @@
   <a href="https://github.com/ryanvpacheco">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryanvpacheco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanvpacheco&layout=compact&langs_count=7&theme=dracula"/>
-  <img allign="right" width="120" height="120" src="https://i.pinimg.com/474x/33/4d/42/334d425ebe7b8134d7c83170522b7816.jpg""/>
+  <img allign="left" width="120" height="120" src="https://i.pinimg.com/474x/33/4d/42/334d425ebe7b8134d7c83170522b7816.jpg""/>
     
 </div>
     
