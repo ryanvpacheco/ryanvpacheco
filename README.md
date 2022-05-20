@@ -7,7 +7,7 @@
   <a href="https://github.com/ryanvpacheco">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryanvpacheco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanvpacheco&layout=compact&langs_count=7&theme=dracula"/>
-  <img allign="right" width="120" height="120" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fchicken-joe-surfs-up-gifs&psig=AOvVaw1kH04i3KhtHmyp-kILiwS6&ust=1653094604414000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPi7j7bv7PcCFQAAAAAdAAAAABAD"/>
+  <img allign="right" width="120" height="120" src="<div class="tenor-gif-embed" data-postid="19137273" data-share-method="host" data-aspect-ratio="1.36752" data-width="100%"><a href="https://tenor.com/view/jo%C3%A3o-frango-gif-19137273">João Frango GIF</a>from <a href="https://tenor.com/search/jo%C3%A3o+frango-gifs">João Frango GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>"/>
     
 </div>
     
