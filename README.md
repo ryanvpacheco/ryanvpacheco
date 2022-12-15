@@ -20,15 +20,13 @@
   <img align="center" alt="Cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   
 </div>
+
 ##
-  MEU PROJETO PESSOAL :
-    http://gallowsmoney.com
+MEU PROJETO PESSOAL : http://gallowsmoney.com
 ##
-  JOGUE :
-    https://imaginative-rolypoly-d4090d.netlify.app/0
+JOGUE : https://imaginative-rolypoly-d4090d.netlify.app/0
 ##
-  SITE DE APRESENTAÇÃO :
-    https://ryanzinpachecosdv.netlify.app/
+SITE DE APRESENTAÇÃO : https://ryanzinpachecosdv.netlify.app/
 ##
   
   <div align="center"> 
