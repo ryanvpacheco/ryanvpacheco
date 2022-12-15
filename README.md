@@ -28,7 +28,7 @@ JOGUE : https://imaginative-rolypoly-d4090d.netlify.app/0
 ##
 SITE DE APRESENTAÇÃO : https://ryanzinpachecosdv.netlify.app/
 ##
-Gestor de projeto na atualização visual : https://updown.com.br/
+GESTOR DE PROJETO DE IMPLEMENTAÇÃO DO DESIGNE VISUAL : https://updown.com.br/
 ##
   
   <div align="center"> 
