@@ -28,6 +28,8 @@ JOGUE : https://imaginative-rolypoly-d4090d.netlify.app/0
 ##
 SITE DE APRESENTAÇÃO : https://ryanzinpachecosdv.netlify.app/
 ##
+Gestor de projeto na atualização visual : updown.com.br
+##
   
   <div align="center"> 
   <a href="https://www.instagram.com/rv_pacheco/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
