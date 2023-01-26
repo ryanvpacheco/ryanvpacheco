@@ -1,7 +1,7 @@
 ## Eai, meu nome é Ryan Pacheco👋
 
-
 - 🔭 Atualmente curso Sistemas de Informação-UFJF
+- 🔭 Atuialmente curso Redes de Computadores
 - 🌱 Atualmente aprendendo Python , C, C++ , C#,JS.
 ##
 <div align="center">
