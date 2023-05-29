@@ -20,17 +20,6 @@
   <img align="center" alt="Cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   
 </div>
-
-##
-MEU PROJETO PESSOAL : http://gallowsmoney.com
-##
-JOGUE : https://imaginative-rolypoly-d4090d.netlify.app/0
-##
-SITE DE APRESENTAÇÃO : https://ryanzinpachecosdv.netlify.app/
-##
-GESTOR DE PROJETO DE IMPLEMENTAÇÃO DO DESIGNE VISUAL : https://updown.com.br/
-##
-  
   <div align="center"> 
   <a href="https://www.instagram.com/rv_pacheco/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:r.pacheco.o777@gmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
