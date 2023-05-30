@@ -17,7 +17,14 @@
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
 </div>
+
+## Projetos Destacados:
+
+- [Projeto 1](https://github.com/usuario/projeto1): Descrição do projeto 1.
+- [Projeto 2](https://github.com/usuario/projeto2): Descrição do projeto 2.
+- [Projeto 3](https://github.com/usuario/projeto3): Descrição do projeto 3.
 
 ## Contato:
 
@@ -30,5 +37,8 @@
   </a>
   <a href="https://www.linkedin.com/in/ryan-pacheco-80a82021b/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="https://github.com/ryanvpacheco" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" target="_blank">
   </a>
 </div>
