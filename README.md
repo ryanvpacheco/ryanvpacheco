@@ -22,9 +22,8 @@
 
 ## Projetos Destacados:
 
-- [Projeto 1](https://github.com/usuario/projeto1): Descrição do projeto 1.
-- [Projeto 2](https://github.com/usuario/projeto2): Descrição do projeto 2.
-- [Projeto 3](https://github.com/usuario/projeto3): Descrição do projeto 3.
+- [Projeto 1](https://github.com/ryanvpacheco/mx-device-auto-reboot):Reinicialização Automática do Dispositivo MX
+- [Projeto 2](https://github.com/ryanvpacheco/Meraki-MX-Performance-Monitoring):Monitoramento de Desempenho do Dispositivo Meraki MX Descrição
 
 ## Contato:
 
