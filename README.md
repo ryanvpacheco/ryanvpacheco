@@ -1,7 +1,7 @@
 # Eai, meu nome é Ryan Pacheco! 👋
 
 - 🔭 Atualmente curso Sistemas de Informação Bacharelado.
-- 🔭 Graduado Redes de Computadores Tecnólogo .
+- 🔭 Graduado em Redes de Computadores Tecnólogo .
 - 🌱 Atualmente estou aprendendo Python, C, C++, C# e JavaScript.
 
 <div align="center">
