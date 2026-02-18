@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Sistemas+de+Informacao+Bacharelado;Redes+de+Computadores+Tecnologo;Python+%7C+JavaScript+%7C+Cloud;Sempre+aprendendo+algo+novo+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Sistemas+de+Informacao+Bacharelado;Redes+de+Computadores+Tecnologo;Python+%7C+JavaScript+%7C+TypeScript;Sempre+aprendendo+algo+novo+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,7 +16,8 @@
 
 - 🎓 Cursando **Sistemas de Informação** (Bacharelado)
 - 🏅 Graduado em **Redes de Computadores** (Tecnólogo)
-- 🌱 Aprendendo: **Python · C · C++ · C# · JavaScript**
+- 🚀 Stacks principais: **Python · JavaScript · TypeScript**
+- 🌱 Também estudando: **C · C++ · C#**
 - ☁️ Foco em **Redes, Cloud e Automação**
 - 📫 Contato: **r.pacheco.o777@gmail.com**
 
@@ -26,6 +27,7 @@
 
 <div align="center">
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -33,6 +35,7 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
@@ -46,6 +49,7 @@
 
 | 🔗 Projeto | 📝 Descrição | 🛠️ Stack |
 |:---:|:---:|:---:|
+| [**Simplifica Gestões**](https://simplificaaegestoes.vercel.app) | Plataforma de gestão financeira pessoal com separação PF/PJ | `TypeScript` `Next.js` `Vercel` |
 | [**MX Auto Reboot**](https://github.com/ryanvpacheco/mx-device-auto-reboot) | Reinicialização automática de dispositivos MX via API Meraki | `Python` `Meraki API` |
 | [**Meraki MX Monitor**](https://github.com/ryanvpacheco/Meraki-MX-Performance-Monitoring) | Monitoramento de desempenho de dispositivos Meraki MX | `Python` `Networking` |
 | [**TCC Escola da Nuvem**](https://duftw026uq9un.cloudfront.net/index.html) | Projeto de conclusão de curso — Cloud Computing | `AWS` `Cloud` |
