@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Sistemas+de+Informacao+%7C+UNIP;Redes+de+Computadores+%7C+Tecnologo;Python+%7C+JavaScript+%7C+Cloud;Sempre+aprendendo+algo+novo+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Sistemas+de+Informacao+Bacharelado;Redes+de+Computadores+Tecnologo;Python+%7C+JavaScript+%7C+Cloud;Sempre+aprendendo+algo+novo+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,18 +14,11 @@
 
 ## 👨‍💻 Sobre mim
 
-```python
-class RyanPacheco:
-    def __init__(self):
-        self.nome       = "Ryan Pacheco"
-        self.formacao   = ["Sistemas de Informação (Bacharelado)", "Redes de Computadores (Tecnólogo)"]
-        self.foco       = ["Desenvolvimento de Software", "Redes & Cloud", "Automação"]
-        self.aprendendo = ["Python", "C", "C++", "C#", "JavaScript"]
-        self.contato    = "ryanvpacheco@gmail.com"
-
-    def missao(self):
-        return "Transformar problemas complexos em soluções elegantes 💡"
-```
+- 🎓 Cursando **Sistemas de Informação** (Bacharelado)
+- 🏅 Graduado em **Redes de Computadores** (Tecnólogo)
+- 🌱 Aprendendo: **Python · C · C++ · C# · JavaScript**
+- ☁️ Foco em **Redes, Cloud e Automação**
+- 📫 Contato: **r.pacheco.o777@gmail.com**
 
 ---
 
@@ -33,18 +26,13 @@ class RyanPacheco:
 
 <div align="center">
 
-### Linguagens
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-
-### Web & Markup
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Cloud & Redes
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
@@ -70,15 +58,9 @@ class RyanPacheco:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryanvpacheco&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=1800" alt="Ryan's GitHub Stats"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanvpacheco&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=1800" alt="Top Languages"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ryanvpacheco&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub Streak"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryanvpacheco&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanvpacheco&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Langs" />
 
 </div>
 
