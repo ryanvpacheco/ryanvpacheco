@@ -49,7 +49,7 @@
 
 | 🔗 Projeto | 📝 Descrição | 🛠️ Stack |
 |:---:|:---:|:---:|
-| [**Simplifica Gestões**](https://simplificaaegestoes.vercel.app) | Plataforma de gestão financeira pessoal com separação PF/PJ | `TypeScript` `Next.js` `Vercel` |
+| [**Simplifica Gestões**](https://www.simplificaae.com/) | Sistema completo de gestão financeira pessoal e empresarial — controle de gastos, parcelas e cartões | `TypeScript` `Next.js` `Vercel` |
 | [**MX Auto Reboot**](https://github.com/ryanvpacheco/mx-device-auto-reboot) | Reinicialização automática de dispositivos MX via API Meraki | `Python` `Meraki API` |
 | [**Meraki MX Monitor**](https://github.com/ryanvpacheco/Meraki-MX-Performance-Monitoring) | Monitoramento de desempenho de dispositivos Meraki MX | `Python` `Networking` |
 | [**TCC Escola da Nuvem**](https://duftw026uq9un.cloudfront.net/index.html) | Projeto de conclusão de curso — Cloud Computing | `AWS` `Cloud` |
@@ -62,9 +62,10 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryanvpacheco&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanvpacheco&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Langs" />
+<a href="https://github.com/ryanvpacheco">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryanvpacheco&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanvpacheco&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA" />
+</a>
 
 </div>
 
