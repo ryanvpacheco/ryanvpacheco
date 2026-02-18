@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Ryan%20Pacheco&fontSize=52&fontColor=fff&fontAlignY=36&desc=Developer%20%7C%20Network%20%7C%20Cloud&descAlignY=56&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Ryan%20Pacheco&fontSize=52&fontColor=fff&fontAlignY=36&desc=Gerente%20de%20Projetos%20%7C%20Redes%20%7C%20Cloud&descAlignY=56&descSize=18" width="100%"/>
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&pause=2000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Sistemas+de+Informação+%7C+Bacharelado;Redes+de+Computadores+%7C+Tecnólogo;TypeScript+%7C+Python+%7C+JavaScript)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&pause=2000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Gerente+de+Projetos;Sistemas+de+Informacao+%7C+Bacharelado;Redes+de+Computadores+%7C+Tecnologo;TypeScript+%7C+Python+%7C+Cloud)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,10 +12,11 @@
 
 ### Sobre
 
-Desenvolvedor com background em redes e infraestrutura, focado em construir produtos que resolvem problemas reais. Atualmente desenvolvendo o **[Simplifica Gestões](https://www.simplificaae.com)** — plataforma de gestão financeira pessoal e empresarial.
+Gerente de Projetos com background em redes e infraestrutura, apaixonado por tecnologia e construção de produtos que resolvem problemas reais. Atualmente desenvolvendo o **[Simplifica Gestões](https://www.simplificaae.com)** — plataforma de gestão financeira pessoal e empresarial.
 
 - 🎓 Sistemas de Informação (Bacharelado) · Redes de Computadores (Tecnólogo)
-- 🚀 Stack principal: **TypeScript · Next.js · Python**
+- � Foco em **Gestão de Projetos · Redes · Cloud**
+- 💻 Desenvolvendo em: **TypeScript · Next.js · Python**
 - ☁️ Experiência com **AWS** e automação de redes **Cisco/Meraki**
 - 📬 **ryanvpacheco@gmail.com**
 
