@@ -12,7 +12,7 @@
 
 ### Sobre
 
-Gerente de Projetos com background em redes e infraestrutura, apaixonado por tecnologia e construção de produtos que resolvem problemas reais. Atualmente desenvolvendo o **[Simplifica Gestões](https://www.simplificaae.com)** — plataforma de gestão financeira pessoal e empresarial.
+Gerente de Projetos com background em redes e infraestrutura, apaixonado por tecnologia . Atualmente desenvolvendo o **[Simplifica Gestões](https://www.simplificaae.com)** — plataforma de gestão financeira pessoal e empresarial.
 
 - 🎓 Sistemas de Informação (Bacharelado) · Redes de Computadores (Tecnólogo)
 - � Foco em **Gestão de Projetos · Redes · Cloud**
