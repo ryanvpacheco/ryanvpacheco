@@ -1,39 +1,105 @@
-# Eai, meu nome é Ryan Pacheco! 👋
+<div align="center">
 
-- 🔭 Atualmente curso Sistemas de Informação Bacharelado.
-- 🔭 Graduado em Redes de Computadores Tecnólogo .
-- 🌱 Atualmente estou aprendendo Python, C, C++, C# e JavaScript.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ryan%20Pacheco&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20%7C%20Redes%20%7C%20Cloud&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
-## Linguagens e Ferramentas:
-
-<div style="display: inline_block" align="center">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
 </div>
 
-## Projetos Destacados:
+<div align="center">
 
-- [Projeto 1](https://github.com/ryanvpacheco/mx-device-auto-reboot):Reinicialização Automática do Dispositivo MX
-- [Projeto 2](https://github.com/ryanvpacheco/Meraki-MX-Performance-Monitoring):Monitoramento de Desempenho do Dispositivo Meraki MX Descrição
-- [Projeto 3](https://duftw026uq9un.cloudfront.net/index.html):TCC ESCOLA DA NUVEM
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Sistemas+de+Informa%C3%A7%C3%A3o+%7C+UNIP;Redes+de+Computadores+%7C+Tecnólogo;Python+%7C+JavaScript+%7C+Cloud;Sempre+aprendendo+algo+novo+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-## Contato:
+</div>
+
+---
+
+## �‍💻 Sobre mim
+
+```python
+class RyanPacheco:
+    def __init__(self):
+        self.nome       = "Ryan Pacheco"
+        self.formacao   = ["Sistemas de Informação (Bacharelado)", "Redes de Computadores (Tecnólogo)"]
+        self.foco       = ["Desenvolvimento de Software", "Redes & Cloud", "Automação"]
+        self.aprendendo = ["Python", "C", "C++", "C#", "JavaScript"]
+        self.contato    = "r.pacheco.o777@gmail.com"
+
+    def missao(self):
+        return "Transformar problemas complexos em soluções elegantes 💡"
+```
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  <a href="https://www.instagram.com/rv_pacheco/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  <a href="mailto:r.pacheco.o777@gmail.com">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/ryan-pacheco-80a82021b/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href="https://github.com/ryanvpacheco" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" target="_blank">
-  </a>
+
+### Linguagens
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+
+### Web & Markup
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Cloud & Redes
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Projetos em Destaque
+
+<div align="center">
+
+| 🔗 Projeto | 📝 Descrição | 🛠️ Stack |
+|:---:|:---:|:---:|
+| [**MX Auto Reboot**](https://github.com/ryanvpacheco/mx-device-auto-reboot) | Reinicialização automática de dispositivos MX via API Meraki | `Python` `Meraki API` |
+| [**Meraki MX Monitor**](https://github.com/ryanvpacheco/Meraki-MX-Performance-Monitoring) | Monitoramento de desempenho de dispositivos Meraki MX | `Python` `Networking` |
+| [**TCC Escola da Nuvem**](https://duftw026uq9un.cloudfront.net/index.html) | Projeto de conclusão de curso — Cloud Computing | `AWS` `Cloud` |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryanvpacheco&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanvpacheco&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ryanvpacheco&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA)
+
+</div>
+
+---
+
+## 🌐 Onde me encontrar
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-pacheco-80a82021b/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rv_pacheco/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:r.pacheco.o777@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ryanvpacheco)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+
+<sub>✨ Feito com 💜 por Ryan Pacheco — sempre em evolução</sub>
+
 </div>
