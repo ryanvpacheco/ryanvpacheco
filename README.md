@@ -19,7 +19,7 @@
 - 🚀 Stacks principais: **Python · JavaScript · TypeScript**
 - 🌱 Também estudando: **C · C++ · C#**
 - ☁️ Foco em **Redes, Cloud e Automação**
-- 📫 Contato: **r.pacheco.o777@gmail.com**
+- 📫 Contato: **ryanvpacheco@gmail.com**
 
 ---
 
@@ -87,7 +87,5 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
-
-<sub>✨ Feito com 💜 por Ryan Pacheco — sempre em evolução</sub>
 
 </div>
