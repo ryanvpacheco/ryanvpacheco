@@ -62,10 +62,10 @@
 
 <div align="center">
 
-<a href="https://github.com/ryanvpacheco">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryanvpacheco&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanvpacheco&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA" />
-</a>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryanvpacheco&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ryanvpacheco&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ryanvpacheco&theme=tokyonight)
 
 </div>
 
