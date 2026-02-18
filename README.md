@@ -21,7 +21,7 @@ class RyanPacheco:
         self.formacao   = ["Sistemas de Informação (Bacharelado)", "Redes de Computadores (Tecnólogo)"]
         self.foco       = ["Desenvolvimento de Software", "Redes & Cloud", "Automação"]
         self.aprendendo = ["Python", "C", "C++", "C#", "JavaScript"]
-        self.contato    = "r.pacheco.o777@gmail.com"
+        self.contato    = "ryanvpacheco@gmail.com"
 
     def missao(self):
         return "Transformar problemas complexos em soluções elegantes 💡"
