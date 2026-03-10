@@ -30,6 +30,10 @@ Gerente de Projetos com background em redes e infraestrutura, apaixonado por tec
   </a>
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ryanvpacheco/ryanvpacheco/main/demo.gif" alt="MeshTalent Demo" width="900"/>
+</div>
+
 <br/>
 
 **[MeshTalent](https://meshtalent.com.br)** é uma plataforma SaaS de Recrutamento & Seleção que cobre todo o processo de contratação, desde a publicação da vaga até a contratação.
