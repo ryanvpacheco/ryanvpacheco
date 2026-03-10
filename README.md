@@ -12,10 +12,10 @@
 
 ### Sobre
 
-Gerente de Projetos com background em redes e infraestrutura, apaixonado por tecnologia . Atualmente desenvolvendo o **[Simplifica Gestões](https://www.simplificaae.com)** — plataforma de gestão financeira pessoal e empresarial.
+Gerente de Projetos com background em redes e infraestrutura, apaixonado por tecnologia. Atualmente desenvolvendo o **[MeshTalent](https://meshtalent.com.br)** — plataforma SaaS de Recrutamento & Seleção com Kanban, banco de talentos e automações para empresas.
 
 - 🎓 Sistemas de Informação (Bacharelado) · Redes de Computadores (Tecnólogo)
-- � Foco em **Gestão de Projetos · Redes · Cloud**
+- 🎯 Foco em **Gestão de Projetos · Redes · Cloud**
 - 💻 Desenvolvendo em: **TypeScript · Next.js · Python**
 - ☁️ Experiência com **AWS** e automação de redes **Cisco/Meraki**
 - 📬 **ryanvpacheco@gmail.com**
@@ -44,7 +44,8 @@ Gerente de Projetos com background em redes e infraestrutura, apaixonado por tec
 
 | Projeto | Descrição |
 |---|---|
-| [**Simplifica Gestões**](https://www.simplificaae.com) | Sistema completo de gestão financeira pessoal e empresarial — gastos, parcelas e cartões |
+| 🚀 [**MeshTalent**](https://meshtalent.com.br) | SaaS de Recrutamento & Seleção — Kanban de candidatos, banco de talentos, página pública de vagas e automações |
+| [**Simplifica Gestões**](https://www.simplificaae.com) | Sistema de gestão financeira pessoal e empresarial — gastos, parcelas e cartões |
 | [**MX Auto Reboot**](https://github.com/ryanvpacheco/mx-device-auto-reboot) | Reinicialização automática de dispositivos Meraki MX via API |
 | [**Meraki MX Monitor**](https://github.com/ryanvpacheco/Meraki-MX-Performance-Monitoring) | Monitoramento de desempenho de dispositivos Meraki MX |
 | [**TCC Escola da Nuvem**](https://duftw026uq9un.cloudfront.net/index.html) | Projeto de conclusão de curso em Cloud Computing |
