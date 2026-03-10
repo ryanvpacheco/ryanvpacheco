@@ -12,13 +12,51 @@
 
 ### Sobre
 
-Gerente de Projetos com background em redes e infraestrutura, apaixonado por tecnologia. Atualmente desenvolvendo o **[MeshTalent](https://meshtalent.com.br)** — plataforma SaaS de Recrutamento & Seleção com Kanban, banco de talentos e automações para empresas.
+Gerente de Projetos com background em redes e infraestrutura, apaixonado por tecnologia. Atualmente desenvolvendo o **[MeshTalent](https://meshtalent.com.br)**, uma plataforma SaaS de Recrutamento & Seleção com Kanban, banco de talentos e automações para empresas.
 
 - 🎓 Sistemas de Informação (Bacharelado) · Redes de Computadores (Tecnólogo)
 - 🎯 Foco em **Gestão de Projetos · Redes · Cloud**
 - 💻 Desenvolvendo em: **TypeScript · Next.js · Python**
 - ☁️ Experiência com **AWS** e automação de redes **Cisco/Meraki**
 - 📬 **ryanvpacheco@gmail.com**
+
+---
+
+### 🚀 Projeto em destaque
+
+<div align="center">
+  <a href="https://meshtalent.com.br" target="_blank">
+    <img src="https://meshtalent.com.br/opengraph-image" alt="MeshTalent" width="480"/>
+  </a>
+</div>
+
+<br/>
+
+**[MeshTalent](https://meshtalent.com.br)** é uma plataforma SaaS de Recrutamento & Seleção que cobre todo o processo de contratação, desde a publicação da vaga até a contratação.
+
+**Principais funcionalidades:**
+- 📋 **Pipeline Kanban** com drag-and-drop para acompanhar candidatos em tempo real
+- 🌐 **Página pública de vagas** gerada automaticamente para receber candidaturas online
+- 🗃️ **Banco de Talentos** para guardar candidatos qualificados e reaproveitar em vagas futuras
+- 📧 **Disparo de e-mails** direto para candidatos dentro da plataforma
+- 👥 **Multi-usuário** com convite de recrutadores e permissões por funcionalidade
+- 📊 **Atividades e notas** para registrar ligações, tarefas e anotações por candidato
+- 🔔 **Notificações** de atividades agendadas e atrasadas
+
+**Stack:**
+
+![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+<div align="center">
+  <a href="https://meshtalent.com.br">
+    <img src="https://img.shields.io/badge/Acessar%20plataforma-22C55E?style=for-the-badge&logo=vercel&logoColor=white" alt="Acessar MeshTalent"/>
+  </a>
+</div>
 
 ---
 
@@ -40,12 +78,11 @@ Gerente de Projetos com background em redes e infraestrutura, apaixonado por tec
 
 ---
 
-### Projetos
+### Outros Projetos
 
 | Projeto | Descrição |
 |---|---|
-| 🚀 [**MeshTalent**](https://meshtalent.com.br) | SaaS de Recrutamento & Seleção — Kanban de candidatos, banco de talentos, página pública de vagas e automações |
-| [**Simplifica Gestões**](https://www.simplificaae.com) | Sistema de gestão financeira pessoal e empresarial — gastos, parcelas e cartões |
+| [**Simplifica Gestões**](https://www.simplificaae.com) | Sistema de gestão financeira pessoal e empresarial com controle de gastos, parcelas e cartões |
 | [**MX Auto Reboot**](https://github.com/ryanvpacheco/mx-device-auto-reboot) | Reinicialização automática de dispositivos Meraki MX via API |
 | [**Meraki MX Monitor**](https://github.com/ryanvpacheco/Meraki-MX-Performance-Monitoring) | Monitoramento de desempenho de dispositivos Meraki MX |
 | [**TCC Escola da Nuvem**](https://duftw026uq9un.cloudfront.net/index.html) | Projeto de conclusão de curso em Cloud Computing |
