@@ -81,7 +81,6 @@ Project Manager with a background in networks and infrastructure, passionate abo
 | [**Simplifica Gestões**](https://www.simplificaae.com) | Personal and business finance management with expense tracking, installments and card control | Next.js, TypeScript |
 | [**MX Auto Reboot**](https://github.com/ryanvpacheco/mx-device-auto-reboot) | Automated scheduled reboot for Meraki MX devices via API | Python |
 | [**Meraki MX Monitor**](https://github.com/ryanvpacheco/Meraki-MX-Performance-Monitoring) | Performance monitoring dashboard for Meraki MX devices | Python |
-| [**TCC Escola da Nuvem**](https://duftw026uq9un.cloudfront.net/index.html) | Cloud Computing graduation project | AWS |
 
 ---
 
@@ -179,7 +178,6 @@ Gerente de Projetos com background em redes e infraestrutura, apaixonado por con
 | [**Simplifica Gestões**](https://www.simplificaae.com) | Sistema de gestão financeira pessoal e empresarial com controle de gastos, parcelas e cartões | Next.js, TypeScript |
 | [**MX Auto Reboot**](https://github.com/ryanvpacheco/mx-device-auto-reboot) | Reinicialização automática agendada de dispositivos Meraki MX via API | Python |
 | [**Meraki MX Monitor**](https://github.com/ryanvpacheco/Meraki-MX-Performance-Monitoring) | Monitoramento de desempenho de dispositivos Meraki MX | Python |
-| [**TCC Escola da Nuvem**](https://duftw026uq9un.cloudfront.net/index.html) | Projeto de conclusão de curso em Cloud Computing | AWS |
 
 </details>
 
