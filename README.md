@@ -76,7 +76,7 @@ Project Manager with a background in networks and infrastructure, passionate abo
 
 | Project | Description | Stack |
 |---|---|---|
-| [**Stratologi ENEM**](https://github.com/ryanvpacheco/stratologi-enem) | Gamified ENEM prep platform with structured learning path, real past exams, AI essay grading and XP ranking system | Next.js, TypeScript, Supabase, Framer Motion |
+| [**Stratologi ENEM**](https://enem.stratologi.com/sobre) | Gamified ENEM prep platform with structured learning path, real past exams, AI essay grading and XP ranking system | Next.js, TypeScript, Supabase, Framer Motion |
 | [**Stratologi Atlas**](https://github.com/ryanvpacheco/stratologi-atlas-opensource) | Public REST API for Brazilian geographic data: countries, states, cities, neighborhoods and postal code (CEP) search | Go, Gin, PostgreSQL, Swagger |
 | [**Simplifica Gestões**](https://www.simplificaae.com) | Personal and business finance management with expense tracking, installments and card control | Next.js, TypeScript |
 | [**MX Auto Reboot**](https://github.com/ryanvpacheco/mx-device-auto-reboot) | Automated scheduled reboot for Meraki MX devices via API | Python |
@@ -173,7 +173,7 @@ Gerente de Projetos com background em redes e infraestrutura, apaixonado por con
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [**Stratologi ENEM**](https://github.com/ryanvpacheco/stratologi-enem) | Plataforma gamificada de preparação para o ENEM com trilha de aprendizado estruturada, provas reais, correção de redação por IA e sistema de XP/ranking | Next.js, TypeScript, Supabase, Framer Motion |
+| [**Stratologi ENEM**](https://enem.stratologi.com/sobre) | Plataforma gamificada de preparação para o ENEM com trilha de aprendizado estruturada, provas reais, correção de redação por IA e sistema de XP/ranking | Next.js, TypeScript, Supabase, Framer Motion |
 | [**Stratologi Atlas**](https://github.com/ryanvpacheco/stratologi-atlas-opensource) | API REST pública de dados geográficos do Brasil: países, estados, cidades, bairros e busca por CEP | Go, Gin, PostgreSQL, Swagger |
 | [**Simplifica Gestões**](https://www.simplificaae.com) | Sistema de gestão financeira pessoal e empresarial com controle de gastos, parcelas e cartões | Next.js, TypeScript |
 | [**MX Auto Reboot**](https://github.com/ryanvpacheco/mx-device-auto-reboot) | Reinicialização automática agendada de dispositivos Meraki MX via API | Python |
