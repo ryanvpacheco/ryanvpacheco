@@ -20,7 +20,7 @@
 
 ### About
 
-Project Manager with a background in networks and infrastructure, passionate about building products from scratch. Currently focused on the **Stratologi** ecosystem and **[MeshTalent](https://meshtalent.com.br)**.
+Project Manager with a background in networks and infrastructure, passionate about building products from scratch. Currently focused on the **Stratologi** ecosystem and **[Bemtevy](https://bemtevy.com)**.
 
 - 🎓 Information Systems (Bachelor) and Computer Networks (Technologist)
 - 🎯 Focus: Project Management, Full-Stack Development, Cloud
@@ -33,18 +33,18 @@ Project Manager with a background in networks and infrastructure, passionate abo
 ### Featured Project
 
 <div align="center">
-  <a href="https://meshtalent.com.br" target="_blank">
-    <img src="https://meshtalent.com.br/opengraph-image" alt="MeshTalent" width="480"/>
+  <a href="https://bemtevy.com" target="_blank">
+    <img src="https://bemtevy.com/opengraph-image" alt="Bemtevy" width="480"/>
   </a>
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ryanvpacheco/ryanvpacheco/main/demo.gif" alt="MeshTalent Demo" width="900"/>
+  <img src="https://raw.githubusercontent.com/ryanvpacheco/ryanvpacheco/main/demo.gif" alt="Bemtevy Demo" width="900"/>
 </div>
 
 <br/>
 
-**[MeshTalent](https://meshtalent.com.br)** is a SaaS platform for Recruitment and Selection that covers the entire hiring process, from job posting to final decision.
+**[Bemtevy](https://bemtevy.com)** is a SaaS platform for Recruitment and Selection that covers the entire hiring process, from job posting to final decision.
 
 **Key features:**
 - 📋 Kanban pipeline with drag-and-drop for real-time candidate tracking
@@ -65,8 +65,8 @@ Project Manager with a background in networks and infrastructure, passionate abo
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 <div align="center">
-  <a href="https://meshtalent.com.br">
-    <img src="https://img.shields.io/badge/Visit%20platform-22C55E?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit MeshTalent"/>
+  <a href="https://bemtevy.com">
+    <img src="https://img.shields.io/badge/Visit%20platform-22C55E?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Bemtevy"/>
   </a>
 </div>
 
@@ -76,6 +76,7 @@ Project Manager with a background in networks and infrastructure, passionate abo
 
 | Project | Description | Stack |
 |---|---|---|
+| [**Bemtevy**](https://bemtevy.com) | SaaS platform for Recruitment and Selection covering the full hiring pipeline, from job posting to final decision | Next.js, TypeScript, Supabase, Prisma, Stripe |
 | [**Stratologi ENEM**](https://enem.stratologi.com/sobre) | Gamified ENEM prep platform with structured learning path, real past exams, AI essay grading and XP ranking system | Next.js, TypeScript, Supabase, Framer Motion |
 | [**Stratologi Atlas**](https://github.com/ryanvpacheco/stratologi-atlas-opensource) | Public REST API for Brazilian geographic data: countries, states, cities, neighborhoods and postal code (CEP) search | Go, Gin, PostgreSQL, Swagger |
 | [**Simplifica Gestões**](https://www.simplificaae.com) | Personal and business finance management with expense tracking, installments and card control | Next.js, TypeScript |
@@ -144,7 +145,7 @@ Project Manager with a background in networks and infrastructure, passionate abo
 
 ### Sobre
 
-Gerente de Projetos com background em redes e infraestrutura, apaixonado por construir produtos do zero. Atualmente focado no ecossistema **Stratologi** e no **[MeshTalent](https://meshtalent.com.br)**.
+Gerente de Projetos com background em redes e infraestrutura, apaixonado por construir produtos do zero. Atualmente focado no ecossistema **Stratologi** e no **[Bemtevy](https://bemtevy.com)**.
 
 - 🎓 Sistemas de Informação (Bacharelado) e Redes de Computadores (Tecnólogo)
 - 🎯 Foco: Gestão de Projetos, Desenvolvimento Full-Stack, Cloud
@@ -156,7 +157,7 @@ Gerente de Projetos com background em redes e infraestrutura, apaixonado por con
 
 ### Projeto em destaque
 
-**[MeshTalent](https://meshtalent.com.br)** é uma plataforma SaaS de Recrutamento e Seleção que cobre todo o processo de contratação, desde a publicação da vaga até a decisão final.
+**[Bemtevy](https://bemtevy.com)** é uma plataforma SaaS de Recrutamento e Seleção que cobre todo o processo de contratação, desde a publicação da vaga até a decisão final.
 
 **Principais funcionalidades:**
 - 📋 Pipeline Kanban com drag-and-drop para acompanhar candidatos em tempo real
@@ -173,6 +174,7 @@ Gerente de Projetos com background em redes e infraestrutura, apaixonado por con
 
 | Projeto | Descrição | Stack |
 |---|---|---|
+| [**Bemtevy**](https://bemtevy.com) | Plataforma SaaS de Recrutamento e Seleção que cobre todo o pipeline de contratação, da publicação da vaga até a decisão final | Next.js, TypeScript, Supabase, Prisma, Stripe |
 | [**Stratologi ENEM**](https://enem.stratologi.com/sobre) | Plataforma gamificada de preparação para o ENEM com trilha de aprendizado estruturada, provas reais, correção de redação por IA e sistema de XP/ranking | Next.js, TypeScript, Supabase, Framer Motion |
 | [**Stratologi Atlas**](https://github.com/ryanvpacheco/stratologi-atlas-opensource) | API REST pública de dados geográficos do Brasil: países, estados, cidades, bairros e busca por CEP | Go, Gin, PostgreSQL, Swagger |
 | [**Simplifica Gestões**](https://www.simplificaae.com) | Sistema de gestão financeira pessoal e empresarial com controle de gastos, parcelas e cartões | Next.js, TypeScript |
