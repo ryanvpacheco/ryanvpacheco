@@ -34,7 +34,7 @@ Project Manager with a background in networks and infrastructure, passionate abo
 
 <div align="center">
   <a href="https://bemtevy.com" target="_blank">
-    <img src="https://bemtevy.com/opengraph-image" alt="Bemtevy" width="480"/>
+    <img src="https://raw.githubusercontent.com/ryanvpacheco/ryanvpacheco/main/formato-app.png" alt="Bemtevy" width="180"/>
   </a>
 </div>
 
